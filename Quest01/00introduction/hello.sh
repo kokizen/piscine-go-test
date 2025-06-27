@@ -1,1 +1,1 @@
-echo "Hello kalem!"
+echo "Hello kokizen!"
