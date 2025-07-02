@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"piscine-go-test/Quest03/recursivefactorial/piscine"
+	"piscine-go-test/Quest03/02recursivefactorial/piscine"
 )
 
 func main() {

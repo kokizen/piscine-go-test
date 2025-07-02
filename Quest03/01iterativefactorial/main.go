@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"piscine-go-test/Quest03/iterativefactorial/piscine"
+	"piscine-go-test/Quest03/01iterativefactorial/piscine"
 )
 
 func main() {
